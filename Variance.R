@@ -1,2 +1,2 @@
-my_variance <- function((mean(x) - mean(x))^2)
+my_variance <- function(x) mean((x) - mean(x))^2)
   
