@@ -7,3 +7,5 @@ my_mean <- function(x) {
 # example:
 ages <- c(34, 12, 24)
 my_mean(ages)
+
+# What are you doing now
